@@ -1,2 +1,2 @@
 # HypeBot
-Discord bot to post prompts at scheduled times
+Discord Bot for the Hype Squad server

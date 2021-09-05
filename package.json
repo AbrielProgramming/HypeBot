@@ -1,0 +1,15 @@
+{
+    "name": "hype_bot",
+    "version": "0.1",
+    "description": "General purpose bot for the Hype server",
+    "main": "bot.js",
+    "author": "Abby Kramer",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^12.3.1",
+        "dotenv": "^8.2.0",
+        "fs": "0.0.1-security",
+        "node-schedule": "^1.3.2",
+        "winston": "^3.3.3"
+    }
+}
